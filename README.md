@@ -3,6 +3,8 @@
 `anchorql` is a graphql server for Anchor apps on Solana.
 
 *Note: This repository is in early development stages and isn't yet functional*
+![Screen Shot 2021-09-09 at 1 32 03](https://user-images.githubusercontent.com/1970424/132594439-cb248648-5c5e-40eb-bcce-de76733ca867.png)
+Current state of the repo in all its' hello-world glory!
 
 ## Core functionality list
 - [x] - graphql server with a graphiql GUI
