@@ -22,6 +22,7 @@ Next steps:
 1. `git clone git@github.com:nobilitix/anchorql.git`
 2. `yarn`
 3. `yarn dev` will run the graphql server in watch mode and recompile the TypeScript files in `src/` folder dynamically
+4. access the graphql server at [http://localhost:3000/graphql](http://localhost:3000/graphql)
 
 ## Logging
 `anchorql` uses `winston` for logging and outputs the following two files by default:
