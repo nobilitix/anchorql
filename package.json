@@ -9,7 +9,7 @@
   "source": "src/index.js",
   "types": "dist/index.d.ts",
   "bin": {
-    "serum-vial": "bin/anchorql.js"
+    "anchorql": "bin/anchorql.js"
   },
   "scripts": {
     "build": "tsc --project tsconfig.json",
